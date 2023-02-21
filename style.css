@@ -1,0 +1,171 @@
+.Navigation {
+    float: right;
+    font-weight: 700;
+}
+
+.Navigation ul li {
+    list-style-type: none;
+    display: inline-block;
+    justify-content: right;
+    padding: 0px 15px 0px;
+}
+
+.image {
+    width: 100%;
+
+}
+
+.heading {
+    padding-top: 12%;
+    text-align: center;
+}
+
+#text {
+    color: chartreuse;
+}
+
+#word {
+    color: rgb(2, 7, 139);
+}
+
+#statement {
+    color: white;
+    padding: 10px;
+    background-color: dodgerblue;
+    border-radius: 20px;
+
+}
+.brands{
+    float: left;
+    display: inline-block;
+}
+#image1 {
+   width: 6%;
+   padding: 0px 10px 0px;
+}
+
+#image2 {
+    width: 4%;
+    padding: 0px 10px 0px;
+
+}
+
+#image3 {
+    width: 5%;
+    padding: 0px 10px 0px;
+}
+
+#image4 {
+    width: 8%;
+   padding: 0px 10px 0px;
+}
+
+
+/* #underline{
+        width:30%;text-align:left;margin-left:0
+} */
+
+.info2{
+    text-align: center;
+}
+.info3{
+text-align: center;
+}
+.stats {
+    float: right;
+    display: flex;
+    position: absolute;
+    justify-content: right;
+    margin-left: 50%;
+}
+
+.stats1 {
+    text-align: center;
+    padding: 0px 55px;
+    display: flex;
+    width: 40%;
+    border-radius: 5%;
+    margin: 2%;
+    float: right;
+    height: 150%;
+    margin-right: 5%;
+    background-color: rgb(224, 199, 199);
+    
+   
+}
+
+.stats2 {
+    text-align: center;
+    padding: 0px 55px;
+    display: inline-grid;
+    width: 40%;
+    border-radius: 5%;
+    margin: 2%;
+    float: right;
+    height: 150%;
+    margin-right: 5%;
+    background-color: rgb(224, 199, 199);
+    
+}
+
+.stats3 {
+    text-align: center;
+    width: 40%;
+    height: 150%;
+    margin: 2%;
+    border-radius: 5%;
+    display: inline-grid;
+    padding: 0px 35px;
+    margin-left: 1px;
+    float: right;
+    margin-right: 25%;
+    background-color: rgb(230, 15, 147);
+}
+#about{
+    margin-top: 0.5cm;
+    padding-left: 1.5cm;
+}
+#about1{
+    color: blueviolet;
+    margin-top: 0.5cm;
+}
+#SEE{
+    background-color: skyblue;
+    border: none;
+    color: white;
+    padding-left: 1.5cm;
+    border-radius: 3.5%;
+    padding: 10px 30px;
+}
+.content{
+    display: flex;
+    padding-top: none;
+    margin-top: none;
+    float: right;
+}
+#line1{
+    border: 1px solid rgb(7, 7, 122);
+    background-color: blue;
+    margin-right: 10px;
+}
+#line2{
+    border: 1px solid orangered;
+    background-color: orangered;
+}
+#line3{
+    background-color: green;
+    border: 1px solid green;
+}
+h4{
+    color: blue;
+}
+.content{
+    margin-right: 12px;
+}
+.content2{
+    margin-right: 12px;
+}
+.content3{
+    margin-right: 7px;
+}
+
